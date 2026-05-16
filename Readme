@@ -8,4 +8,5 @@ library(upscaler) # [Nick Gotelli's project organization package](https://gotell
 ## Soil sensor data ----
 metadata_template(file="OriginalData/Metadata_template.csv")
 
-# Remote github repo: https://github.com/MeganEDuffy/LCBP-EMMAs
+# Remote github repo: https://github.com/MeganEDuffy/LCBP-soil
+
